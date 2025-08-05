@@ -48,17 +48,6 @@ A travel planner that calculates the optimal travel route by **plane or bus** ba
    - Total Distance
    - Total Travel Time
    - Total Cost
-
----
-
-## 📂 Folder Structure
-Dijkstra-Travel-Planner/
-├── src/
-│ ├── main.cpp # Core logic (graph & algorithms)
-│ ├── graph.h # Graph class definitions
-│ └── utils.cpp # Priority queue, heap functions
-├── data/
-│ └── routes.txt # Sample travel data
-├── frontend/
 │ └── index.html # Simple UI for travel input/output
 ├── README.md # Project documentation
+
