@@ -45,9 +45,14 @@ A travel planner that calculates the optimal travel route by **plane or bus** ba
    - Dijkstra's algorithm finds the optimal route based on the selected metric.
    - DFS and BFS are available for general path exploration.
 4. **Output**: Optimized route is displayed with:
+
+## Project diagram
+![WhatsApp Image 2025-09-11 at 16 54 13_e4e22559](https://github.com/user-attachments/assets/2d042c01-3a72-4e4c-b051-e61cb5e4c36d)
+
    - Total Distance
    - Total Travel Time
    - Total Cost
 │ └── index.html # Simple UI for travel input/output
 ├── README.md # Project documentation
+
 
