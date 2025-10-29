@@ -14,9 +14,9 @@ A travel planner that calculates the optimal travel route by plane or bus based 
 - Simple and intuitive HTML-based user interface
 - Efficient backend using advanced data structures and algorithms
 - Supports multiple pathfinding algorithms:
-  - Dijkstra’s Algorithm (for shortest/cheapest paths)
-  - Breadth First Search (BFS)** 
-  - Depth First Search (DFS)**
+  - **Dijkstra’s Algorithm** (for shortest/cheapest paths)
+  - **Breadth First Search (BFS)** 
+  - **Depth First Search (DFS)**
 - Route optimization based on:
   - Distance
   - Time
@@ -53,6 +53,7 @@ A travel planner that calculates the optimal travel route by plane or bus based 
 
 ## Project diagram
 ![WhatsApp Image 2025-09-11 at 16 54 13_e4e22559](https://github.com/user-attachments/assets/2d042c01-3a72-4e4c-b051-e61cb5e4c36d)
+
 
 
 
